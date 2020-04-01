@@ -1,0 +1,6 @@
+cc\ghast\movemenowreborn\commands\ReloadCommand.class
+cc\ghast\movemenowreborn\MoveMeNowReborn.class
+cc\ghast\movemenowreborn\listener\PlayerListener.class
+cc\ghast\movemenowreborn\utils\BungeeUtil.class
+cc\ghast\movemenowreborn\utils\SCount.class
+cc\ghast\movemenowreborn\utils\BConfiguration.class

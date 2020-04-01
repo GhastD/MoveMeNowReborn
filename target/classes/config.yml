@@ -1,0 +1,15 @@
+mode: blacklist
+
+# List these by the priority you wish to be given
+# The higher in the list, the most likely it will be chosen
+servers:
+  - "lobby"
+
+disconnect-if-in-lobby: true
+
+list-of-words:
+  - "ban"
+  - "kick"
+
+message-sent:
+  - "%kickmsg%"
