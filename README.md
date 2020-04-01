@@ -35,3 +35,7 @@ Message is the message sent to the player when he switches server. It can be spa
 
 The system is updated to have the following sort of system to lazily load balance the players:
 ![Load Balance Shit](https://i.imgur.com/MY3cpwl.png)
+
+# Download
+
+Click the following link I guess: https://github.com/GhastD/MoveMeNowReborn/releases/
