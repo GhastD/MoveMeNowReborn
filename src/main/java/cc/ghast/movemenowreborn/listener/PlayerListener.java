@@ -78,7 +78,8 @@ public class PlayerListener implements Listener {
             e.setCancelServer(kickTo);
             for (String line : message) {
                 e.getPlayer().sendMessage(TextComponent.fromLegacyText(
-                        ChatColor.translateAlternateColorCodes('&', line)));
+                        ChatColor.translateAlternateColorCodes('&', line)
+                                .replace("%kick-message%", e.getKickReason())));
             }
         }
     }
